@@ -1,0 +1,29 @@
+Table1
+3
+4
+id
+Integer
+0
+1
+2
+product
+String
+pear
+melon
+apple
+weight
+Real
+1.1
+3.3
+2.2
+time
+Time
+7777
+9007
+10001
+time_invl
+TimeInvl
+7777 10001
+6666 7777
+5555 6666
+

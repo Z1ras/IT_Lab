@@ -1,0 +1,12 @@
+﻿  UnitTest1.cpp
+C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\IT_DB\Data.h(97,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\IT_DB\Data.cpp(178,58): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\IT_DB\Data.cpp(196,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\IT_DB\Data.cpp(235,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\IT_DB\Data.cpp(34): warning C4715: get_strType: значение возвращается не при всех путях выполнения
+C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\IT_DB\Data.cpp(18): warning C4715: get_Type: значение возвращается не при всех путях выполнения
+C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\IT_DB\Data.cpp(83): warning C4715: ValueInit: значение возвращается не при всех путях выполнения
+C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\IT_DB\Data.cpp(149): warning C4715: Value::get_strValue: значение возвращается не при всех путях выполнения
+C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\IT_DB\Data.h(75): warning C4715: Value::operator<: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\x64\Debug\UnitTest1.lib и объект C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\Documents\Новая папка\IT_DB\IT_DB\x64\Debug\UnitTest1.dll

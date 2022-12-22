@@ -1,0 +1,15 @@
+Table1
+2
+3
+product
+String
+cake
+candy
+amount
+Integer
+11
+21
+weight
+Real
+1
+0.1
